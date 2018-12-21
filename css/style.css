@@ -4,3 +4,7 @@ body {
 li {
   list-style: none;
 }
+
+audio {
+  width: 100%;
+}
